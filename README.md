@@ -4,12 +4,12 @@
 - :skateboard: My personal [blog site](https://www.ronsween.com)
 
 ---
-
+ ![sweens's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=radical)
 <details open>
  <summary> :octocat: <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=radical)
+ 
   
 </p>
 </details>
