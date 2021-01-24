@@ -3,5 +3,4 @@
 - 👨‍💻 I’m currently working on [DIMSE Cloud](https://www.dimsecloud.com).
 - :skateboard: My personal [blog site](https://www.ronsween.com)
 
----
- ![sweens's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=radical&show_private=true)
+ ![sweens's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=dark&show_private=true)
