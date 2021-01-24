@@ -5,11 +5,3 @@
 
 ---
  ![sweens's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=radical&show_private=true)
-<details open>
- <summary> :octocat: <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
- 
-  
-</p>
-</details>
