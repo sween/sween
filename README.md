@@ -1,6 +1,25 @@
-### Hi there, I'm [sween](https://www.ronsween.com)! 👋
 
-- 👨‍💻 I’m currently working on [DIMSE Cloud](https://www.dimsecloud.com).
-- :skateboard: My personal [blog site](https://www.ronsween.com)
 
- ![sweens's github stats](https://github-readme-stats.vercel.app/api?username=sween&show_icons=true&theme=dark&show_private=true)
+<p align="center">
+  <img width="1100" height="auto" src="assets/cloud_cambridge.jpeg">
+</p>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/ronsweeney/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="rosweeney"></a>
+</p>
+
+<p align="center">
+Full Stack Development for <a href="https://www.intersystems.com">InterSystems® Workloads</a>
+</p>
+
+```python
+class RonSweeney:
+    def __init__(self, status, stack, hl7, interop, whips):
+        self.status = 'InterSystems Cloud Development'
+        self.startup = 'PID^TOO'
+        self.stack = ['Python','Object Script','Public Cloud','OpenStack']
+        self.hl7 = ['FHIR','CDA','v2']
+        self.interop = [hl7,'DICOM','X12']
+```
+
+
