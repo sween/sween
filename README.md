@@ -14,7 +14,7 @@ Full Stack Development for <a href="https://www.intersystems.com">InterSystems®
 
 ```python
 class RonSweeney:
-    def __init__(self, status, stack, hl7, interop, whips):
+    def __init__(self, status, stack, hl7, interop):
         self.status = 'InterSystems Cloud Development'
         self.startup = 'PID^TOO'
         self.stack = ['Python','Object Script','Public Cloud','OpenStack']
