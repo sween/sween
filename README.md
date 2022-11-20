@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Full Stack Development for <a href="https://www.intersystems.com">InterSystems® Workloads</a>
+Full Stack Development for <a href="https://www.intersystems.com">InterSystems®</a> Workloads
 </p>
 
 ```python
