@@ -9,17 +9,19 @@
 </p>
 
 <p align="center">
-Full Stack Development for <a href="https://www.intersystems.com">InterSystems®</a> Workloads
+Composable Workloads for Healthcare
 </p>
 
 ```python
 class RonSweeney:
     def __init__(self, status, stack, hl7, interop):
-        self.status = 'InterSystems Cloud Development'
+        self.status = 'Prinicipal Architect'
         self.startup = 'PID^TOO||'
-        self.stack = ['Python','Object Script','Public Cloud','Kubernetes']
+        self.stack = ['Python','Databricks','Public Cloud','Kubernetes']
         self.hl7 = ['FHIR','CDA','v2']
-        self.interop = [hl7,'DICOM','X12']
+        self.interop = [self.hl7,'DICOM','X12']
+        self.project = ['Deez Watts']
+        self.whips = ['Rivian','VW','FJ','Jeep']
 ```
 
 
