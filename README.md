@@ -17,7 +17,7 @@ class RonSweeney:
     def __init__(self, status, stack, hl7, interop):
         self.status = 'Prinicipal Architect'
         self.startup = 'PID^TOO||'
-        self.stack = ['Python','Databricks','Public Cloud','Kubernetes']
+        self.stack = ['Python','Databricks','Public Cloud','Kubernetes','InterSystems']
         self.hl7 = ['FHIR','CDA','v2']
         self.interop = [self.hl7,'DICOM','X12']
         self.project = ['Deez Watts']
