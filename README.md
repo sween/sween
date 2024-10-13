@@ -12,16 +12,16 @@
 Composable Workloads for Healthcare
 </p>
 
-```python
-class RonSweeney:
-    def __init__(self, status, stack, hl7, interop):
-        self.status = 'Prinicipal Architect'
-        self.startup = 'PID^TOO||'
-        self.stack = ['Python','Databricks','Public Cloud','Kubernetes','InterSystems']
-        self.hl7 = ['FHIR','CDA','v2']
-        self.interop = [self.hl7,'DICOM','X12']
-        self.project = ['Deez Watts']
-        self.whips = ['Rivian','VW','FJ','Jeep']
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ron-sweeney
+  labels:
+    cka: true
+    cca: true
+    fhir: true
+    identity: true
 ```
 
 
