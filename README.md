@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-Composable Workloads for Healthcare
+Extraordinary ability to take on open-ended problems in unstructured environments.
 </p>
 
 ```yaml
