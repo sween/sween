@@ -33,7 +33,7 @@ export default defineConfig({
   trailingSlash: 'never',
   // root: './my-project-directory',
   server: { host: true },
-  base: '/sween',
+  base: '/sween/',
   // [Adapter]
   // https://docs.astro.build/en/guides/deploy/
   //adapter: vercel(),
