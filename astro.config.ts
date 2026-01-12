@@ -26,14 +26,14 @@ import config from './src/site.config.ts'
 export default defineConfig({
   outDir: './docs',
   // [Basic]
-  site: 'https://sween.github.io/sween',
+  site: 'https://sween.github.io',
   // Deploy to a sub path
   // https://astro-pure.js.org/docs/setup/deployment#platform-with-base-path
   // base: '/astro-pure/',
   trailingSlash: 'never',
   // root: './my-project-directory',
   server: { host: true },
-  base: 'sween',
+  base: '/sween',
   // [Adapter]
   // https://docs.astro.build/en/guides/deploy/
   adapter: vercel(),
