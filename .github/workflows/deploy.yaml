@@ -4,10 +4,8 @@ on:
   push:
     branches:
       - main # or your default branch name
-
 jobs:
   deploy:
-    needs: build
     permissions:
       pages: write
       id-token: write
