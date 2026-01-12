@@ -152,7 +152,12 @@ const headings = [
       { name: 'Alipay', icon: 'alipay', image: alipay }
     ]}
   />
-
+  <p>Please leave a message or contact me proactively after sponsorship. My email is:
+    <code style='cursor: pointer'
+      onclick='const m=atob(this.textContent);alert(m);window.open(`mailto:${m}`,"_blank")'
+    >Y3dvcmxkMEBxcS5jb20=</code>
+    (click code to transform base64).
+  </p>
   <p>Thanks to the following sponsors:</p>
   <Sponsors
     progressMax={50}

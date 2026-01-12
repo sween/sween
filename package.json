@@ -1,5 +1,5 @@
 {
-  "name": "astro-theme-pure",
+  "name": "major-mars",
   "workspaces": [
     "packages/*"
   ],
@@ -24,6 +24,7 @@
     "@astrojs/check": "^0.9.6",
     "@astrojs/rss": "^4.0.14",
     "@astrojs/vercel": "^9.0.2",
+    "@types/jquery": "^3.5.33",
     "@waline/client": "^3.8.0",
     "astro": "^5.16.6",
     "astro-pure": "1.4.0",
