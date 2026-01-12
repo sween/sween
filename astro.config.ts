@@ -41,6 +41,9 @@ export default defineConfig({
   // Local (standalone)
   // adapter: node({ mode: 'standalone' }),
   output: 'static',
+  build: {
+    inlineStylesheets: "auto",
+  },
 
   // [Assets]
   image: {
