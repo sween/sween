@@ -1,3 +1,4 @@
+rm -rf dist
 bun run build
 mv dist docs
 touch docs/.nojekyll
