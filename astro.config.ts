@@ -24,7 +24,7 @@ import config from './src/site.config.ts'
 
 // https://astro.build/config
 export default defineConfig({
-  outDir: './docs',
+  //outDir: './docs',
   // [Basic]
   site: 'https://sween.github.io',
   // Deploy to a sub path
