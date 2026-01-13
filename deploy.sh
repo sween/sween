@@ -1,7 +1,7 @@
 rm -rf dist
 rm -rf docs
 bun run build
-mv dist docs
+cp -rf dist docs
 touch docs/.nojekyll
 git add .
 git commit -m "here"
