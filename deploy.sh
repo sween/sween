@@ -6,3 +6,4 @@ touch docs/.nojekyll
 git add .
 git commit -m "here"
 git push
+rm -rf dist
