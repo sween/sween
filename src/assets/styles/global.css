@@ -57,7 +57,7 @@ span.katex-display {
   margin-bottom: 0.5rem;
   border-radius: 0.75rem;
   /* biome-ignore lint/complexity/noImportantStyles: this is to cover the declaimed style */
-  background-color: hsl(var(--muted) / var(--un-bg-opacity, 1)) !important;
+  background-color: #000000;/* hsl(var(--muted) / var(--un-bg-opacity, 1)) !important; */
   display: flex;
   flex-direction: column;
 
