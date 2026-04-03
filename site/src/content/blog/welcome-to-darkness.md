@@ -1,17 +1,17 @@
 ---
-title: 'Welcome to the Darkness'
+title: 'Welcome to ronsween'
 description: 'Exploring the depths of dark-themed web design with Three.js and modern animations'
 pubDate: 2025-12-15
 tags: ['astro', 'three.js', 'dark-theme', 'animations']
 ---
 
-# Welcome to the Darkness
+# Welcome to ronsween
 
 This is the first post on my new dark-themed blog. Built with Astro and powered by intense animations, this blog explores the intersection of design and motion.
 
 ## What Makes This Theme Special?
 
-The Darkness theme pushes the boundaries of web animation:
+The ronsween theme pushes the boundaries of web animation:
 
 - **5000 Three.js particles** creating an immersive 3D background
 - **Glitch effects** that bring cyberpunk aesthetics to life

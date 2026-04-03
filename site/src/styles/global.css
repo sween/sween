@@ -4,10 +4,11 @@
   --color-bg-dark: #0F172A;
   --color-bg-darker: #020617;
   --color-bg-card: #1E293B;
-  --color-primary: #3B82F6;
-  --color-accent-purple: #8B5CF6;
+  --color-primary: #0063b2;
+  --color-secondary: #ffa500;
+  --color-accent-purple: var(--color-secondary);
   --color-accent-pink: #EC4899;
-  --color-accent-blue: #3B82F6;
+  --color-accent-blue: var(--color-primary);
   --color-accent-cyan: #06B6D4;
   --color-text: #F1F5F9;
   --color-text-dim: #94A3B8;
@@ -51,15 +52,15 @@ body {
 body::before {
   content: '';
   position: fixed;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background:
-    radial-gradient(circle at 20% 50%, rgba(168, 85, 247, 0.1) 0%, transparent 50%),
-    radial-gradient(circle at 80% 80%, rgba(236, 72, 153, 0.1) 0%, transparent 50%),
-    radial-gradient(circle at 40% 20%, rgba(59, 130, 246, 0.1) 0%, transparent 50%);
-  animation: gradientShift 20s ease infinite;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: 
+    linear-gradient(rgba(15, 23, 42, 0.75), rgba(2, 6, 23, 0.85)),
+    url('/images/palm_springs_bg.png');
+  background-size: cover;
+  background-position: center;
   z-index: -1;
 }
 
