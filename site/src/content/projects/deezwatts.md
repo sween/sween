@@ -1,7 +1,7 @@
 ---
 title: 'DEEZWATTS'
 description: 'Multiple interests slammed together in nerd format around the Rivian experience.'
-image: 'images/deezwatts.png'
+image: '/images/deezwatts.png'
 github: 'https://www.deezwatts.com'
 tags: ['rivian', 'data', 'adventure']
 featured: true
