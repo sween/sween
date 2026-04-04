@@ -1,11 +1,11 @@
 ---
-title: 'Mastering CSS Animations in Dark Themes'
-description: 'Advanced CSS animation techniques for creating motion-rich dark interfaces'
-pubDate: 2025-12-25
-tags: ['css', 'animations', 'design', 'dark-theme']
+title: 'Gamers Outreach'
+description: 'Great organization that helps sick kids through gaming'
+pubDate: 2023-12-25
+tags: ['levelup']
 ---
 
-# Mastering CSS Animations in Dark Themes
+# Gamers Outreach
 
 CSS animations are the backbone of any motion-rich interface. In dark themes, they become even more powerful when combined with glows, shadows, and gradients.
 
