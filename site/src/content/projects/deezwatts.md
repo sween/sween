@@ -1,9 +1,9 @@
 ---
-title: 'ronsween - Astro Theme'
-description: 'A heavily modified dark theme with Three.js particles and intense animations'
-image: '/favicon.svg'
-github: 'https://github.com/yourusername/astro-darkness'
-tags: ['astro', 'three.js', 'dark-theme', 'animations']
+title: 'DEEZWATTS'
+description: 'Multiple interests slammed together in nerd format around the Rivian experience.'
+image: 'images/deezwatts.png'
+github: 'https://www.deezwatts.com'
+tags: ['rivian', 'data', 'adventure']
 featured: true
 ---
 
