@@ -26,4 +26,17 @@ const projects = defineCollection({
   }),
 });
 
-export const collections = { blog, projects };
+const professional = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/professional' }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    image: z.string().optional(),
+    link: z.string().optional(),
+    github: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+    featured: z.boolean().default(false),
+  }),
+});
+
+export const collections = { blog, projects, professional };

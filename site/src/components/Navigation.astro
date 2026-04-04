@@ -20,6 +20,9 @@ const relativePath = currentPath.replace(base.slice(0, -1), '') || '/';
       <a href={`${base}projects`} class:list={['nav-link', { active: relativePath === '/projects' }]}>
         Projects
       </a>
+      <a href={`${base}professional`} class:list={['nav-link', { active: relativePath === '/professional' }]}>
+        Professional
+      </a>
       <a href={`${base}about`} class:list={['nav-link', { active: relativePath === '/about' }]}>
         About
       </a>
@@ -42,6 +45,7 @@ const relativePath = currentPath.replace(base.slice(0, -1), '') || '/';
     <a href={base} class:list={['mobile-nav-link', { active: relativePath === '/' }]}>Home</a>
     <a href={`${base}blog`} class:list={['mobile-nav-link', { active: relativePath.startsWith('/blog') }]}>Blog</a>
     <a href={`${base}projects`} class:list={['mobile-nav-link', { active: relativePath === '/projects' }]}>Projects</a>
+    <a href={`${base}professional`} class:list={['mobile-nav-link', { active: relativePath === '/professional' }]}>Professional</a>
     <a href={`${base}about`} class:list={['mobile-nav-link', { active: relativePath === '/about' }]}>About</a>
   </div>
 </div>
