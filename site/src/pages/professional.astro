@@ -27,7 +27,6 @@ const otherProfessional = allProfessional.filter(p => !p.data.featured);
 
       {featuredProfessional.length > 0 && (
         <section class="featured-section">
-          <h2 class="section-title">Featured Work</h2>
           <div class="projects-grid featured-grid">
             {featuredProfessional.map((project) => (
               <ProjectCard
@@ -46,7 +45,6 @@ const otherProfessional = allProfessional.filter(p => !p.data.featured);
 
       {otherProfessional.length > 0 && (
         <section class="other-projects">
-          <h2 class="section-title">Other Professional Experience</h2>
           <div class="projects-grid">
             {otherProfessional.map((project) => (
               <ProjectCard

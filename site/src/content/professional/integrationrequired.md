@@ -1,9 +1,9 @@
 ---
-title: 'DEEZWATTS'
-description: 'Multiple interests slammed together in nerd format around the Rivian experience.'
-image: '/images/deezwatts.png'
-github: 'https://www.deezwatts.com'
-tags: ['rivian', 'data', 'adventure']
+title: 'Integration Required'
+description: 'Healthcare Interoperability and Data Solutions at Impossible speeds.'
+image: '/images/integrationrequired.jpg'
+link: 'https://www.integrationrequired.com'
+tags: ['kubernetes', 'cloud', 'intersystems', 'data']
 featured: true
 ---
 

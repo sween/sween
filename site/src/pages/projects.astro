@@ -27,7 +27,6 @@ const otherProjects = allProjects.filter(p => !p.data.featured);
 
       {featuredProjects.length > 0 && (
         <section class="featured-section">
-          <h2 class="section-title">Featured Projects</h2>
           <div class="projects-grid featured-grid">
             {featuredProjects.map((project) => (
               <ProjectCard
@@ -46,7 +45,6 @@ const otherProjects = allProjects.filter(p => !p.data.featured);
 
       {otherProjects.length > 0 && (
         <section class="other-projects">
-          <h2 class="section-title">Other Projects</h2>
           <div class="projects-grid">
             {otherProjects.map((project) => (
               <ProjectCard
