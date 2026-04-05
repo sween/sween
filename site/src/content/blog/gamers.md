@@ -1,80 +1,22 @@
 ---
-title: 'Gamers Outreach'
+title: 'Helping Others Level Up'
 description: 'Great organization that helps sick kids through gaming'
 pubDate: 2023-12-25
 tags: ['levelup']
 ---
 
-# Gamers Outreach
+# Helping Others Level Up
+*_"It was all a stream..." -Biggie_*  
+Our involvement with Gamers Outreach came from a campaign Quentin Sweeney had done with his short streaming career in 2018.  Though brief, his first go at it was a success, raising enough for his first GO K.I.D.S. Kart for the organization and specifically for Mass General Hospital for Children.
 
-CSS animations are the backbone of any motion-rich interface. In dark themes, they become even more powerful when combined with glows, shadows, and gradients.
 
-## The Float Animation
 
-One of the most elegant effects is the subtle float:
+## Kids and Carts
 
-```css
-@keyframes float {
-  0%, 100% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(-20px);
-  }
-}
+It took us the first cart to understand the importance of the preceding carts, especially for the older kids that typically play games.  Being a "middle aged" child awaiting a procedure is tough as they typically don't have the same level of urgency as the younger children, so they spend a lot of time waiting with undo stress, with a little help from a gaming cart, they can pass the time with home like familiarity.
 
-.element {
-  animation: float 3s ease-in-out infinite;
-}
-```
+![Quentin Sweeney with his first GO K.I.D.S. Kart](/images/gamers/one.jpg)
 
-## Glow Effects
+![Second GO K.I.D.S. Kart](/images/gamers/two.png)
 
-In dark themes, glow effects create depth:
-
-```css
-@keyframes pulse-glow {
-  0%, 100% {
-    box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
-  }
-  50% {
-    box-shadow: 0 0 40px rgba(168, 85, 247, 0.6);
-  }
-}
-```
-
-## Gradient Animations
-
-Animated gradients bring backgrounds to life:
-
-```css
-.shimmer-text {
-  background: linear-gradient(
-    90deg,
-    var(--color-accent-purple),
-    var(--color-accent-pink),
-    var(--color-accent-blue),
-    var(--color-accent-purple)
-  );
-  background-size: 200% auto;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: text-shimmer 3s linear infinite;
-}
-
-@keyframes text-shimmer {
-  to {
-    background-position: 200% center;
-  }
-}
-```
-
-## Performance Considerations
-
-- Use `transform` and `opacity` for best performance
-- Avoid animating `width`, `height`, or `margin`
-- Use `will-change` sparingly
-- Test on low-end devices
-
-The key to great dark theme animations is subtlety combined with impact. Use motion to guide the eye, not distract it.
+[![Gamers Outreach Logo](/images/gamers/gamers-outreach-logo.png)](https://www.gamersoutreach.org)
